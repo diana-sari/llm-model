@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+# Copy the application source code
+cp -Rf /tmp/src/* ${HOME}
+
+# Install Python dependencies
+pip install -r ${HOME}/requirements.txt
+

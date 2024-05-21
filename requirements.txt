@@ -1,0 +1,8 @@
+flask
+transformers
+datasets
+torch
+evaluate
+accelerate
+boto3
+

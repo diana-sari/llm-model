@@ -1,0 +1,4 @@
+#!/bin/bash -e
+
+echo "This is a Python S2I builder image."
+
